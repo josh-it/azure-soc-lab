@@ -1,10 +1,10 @@
-# 🛡️ Azure Home SOC Lab — Honeypot + Microsoft Sentinel
+# Azure Home SOC Lab — Honeypot + Microsoft Sentinel
 
 A hands-on cloud Security Operations Center (SOC) built in Microsoft Azure. This project deploys a Windows honeypot VM, intentionally exposes it to the internet, and uses Microsoft Sentinel (SIEM) to capture, forward, and analyze real-world attacker login attempts.
 
 ---
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 
 - Cloud infrastructure deployment (Azure)
 - SIEM integration (Microsoft Sentinel)
@@ -14,7 +14,7 @@ A hands-on cloud Security Operations Center (SOC) built in Microsoft Azure. This
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 ```
 Internet (Attackers)
@@ -40,7 +40,7 @@ Internet (Attackers)
 
 ---
 
-## 🧰 Prerequisites
+##  Prerequisites
 
 - Personal Microsoft account (not work/school)
 - Azure free trial account with credit card
@@ -48,7 +48,7 @@ Internet (Attackers)
 
 ---
 
-## 📋 Step-by-Step Walkthrough
+##  Step-by-Step Walkthrough
 
 ### Part 1 — Cloud Infrastructure
 
@@ -245,7 +245,7 @@ SecurityEvent
 
 ---
 
-## 🔒 Cleanup (Important!)
+##  Cleanup (Important!)
 
 To avoid unexpected charges, delete all resources after the lab:
 
@@ -256,7 +256,7 @@ To avoid unexpected charges, delete all resources after the lab:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 CYBER HOME LAB/
@@ -277,7 +277,7 @@ CYBER HOME LAB/
 
 ---
 
-## 📚 References
+##  References
 
 - [Microsoft Sentinel Documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
 - [Azure Virtual Machines](https://learn.microsoft.com/en-us/azure/virtual-machines/)
